@@ -2,6 +2,14 @@
 
 **Skate across Jupiter's crescents. Rescue your friends. Make it home.**
 
+## 🎮 Play Jupiter's Crescent
+
+### **[▶ PLAY NOW ON ITCH.IO](https://bedda-m.itch.io/jupiters-crescent)**
+
+**Free to play · Runs in your browser · Desktop recommended**
+
+---
+
 ![Ice skating a crescent, with an unstable moon crumbling nearby and a stranded dog waiting on it](docs/images/hero.png)
 
 A 2D momentum platformer about a space dog called Ice, the curved moons he rides,
@@ -148,11 +156,12 @@ and Android.
 
 ## Project Status
 
-A playable, feature-complete single level with a full loop: skate, rescue, survive
-the hazards, reach the ship, earn a medal.
+**Released and playable in the browser —
+[play it on itch.io](https://bedda-m.itch.io/jupiters-crescent).**
+
+A feature-complete single level with a full loop: skate, rescue, survive the
+hazards, reach the ship, earn a medal.
 
 It is a portfolio project rather than a finished commercial game. One level is
 playable end to end, and the lives system is implemented but currently switched off
 while the fall penalty is being balanced.
-
-A playable build will be linked here once it is published.
