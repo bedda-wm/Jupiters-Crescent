@@ -98,9 +98,6 @@ A few decisions shaped how the level plays:
 - **Hazards are introduced one at a time.** The first unstable moon and the first
   drifting moon each appear alone, somewhere a mistake is cheap, before they ever
   show up in combination.
-- **The level is generated from a layout script** rather than placed by hand, so the
-  geometry, checkpoints, hazards and pickups can be retuned as a set instead of
-  one object at a time.
 
 ---
 
